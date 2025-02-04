@@ -2,7 +2,7 @@
 🔭 I’m currently working on html, css and javascript<br>🤝 I’m looking for help with python, javascript, node.js, react<br>🌱 I’m currently learning python, javascript, node.js, react<br>⚡ Fun fact i am a memer, video editor and maybe a coder 
 
 # Visitors:
-![.](https://profile-counter.glitch.me/QuirkySiiiiiid/count.svg)
+<a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=8pexn9jx66wxalhl16wz49xjk42ffdxk" border="0" title="website counter" alt="website counter"></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/quirky.siiiiiid) 
